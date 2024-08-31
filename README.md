@@ -1,6 +1,12 @@
 # IyRS
 Apuntes y resúmenes de la materia Informática y Relaciones Sociales, 2° cuatrimestre 2024.
+
 Abierto a la colaboración <3
+
+![No sabemos tanto pero lo ke sabemos se comparte](https://instagram.faep14-3.fna.fbcdn.net/v/t51.2885-15/57034864_2059891234133231_7850106499234263585_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDExMjYuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.faep14-3.fna.fbcdn.net&_nc_cat=111&_nc_ohc=3zFZ8dT4PDMQ7kNvgFLpAFp&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYBvsCz0mey9O6hQFLSdWASnnQCcmIno_n2zGLGd3ZYPcA&oe=66D94295&_nc_sid=d885a2)
+
+(cred. [skuichisaurio](https://www.instagram.com/skuichisaurio/))
+
 
 ## Código para colaborar
 - Si subís tus apuntes de clase, ponelos (dentro de `apuntes de clase`) dentro de una carpeta con tu nombre, alias, o una palabra que te represente, para que no se mezclen
@@ -13,6 +19,8 @@ entre paréntesis al final del nombre del archivo, para que no se mezclen si var
 - A la carpeta `misc` podés subirse archivos de texto con links a material interesante, pensamientos, etc, lo que quieras
 
 ## Soy sociólogx, no sé usar git
+Bueno primero y principal si lográs vencer la paja de guglear te aseguro que hay tutoriales mucho mejores en internet. Pero sino: 
+
 Primero hacete una cuenta de github.
 
 Para subir archivos tenés dos opciones: la fácil es usar el botón de Add file, parándote primero en la carpeta que corresponda.
