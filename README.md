@@ -21,7 +21,7 @@ entre paréntesis al final del nombre del archivo, para que no se mezclen si var
 ## Soy sociólogx, no sé usar git
 Bueno primero y principal si lográs vencer la paja de guglear te aseguro que hay tutoriales mucho mejores en internet. Pero sino: 
 
-Primero hacete una cuenta de github.
+Primero hacete una cuenta de github. Después pasame tu nombre de usuario y te hago colaborador.
 
 Para subir archivos tenés dos opciones: la fácil es usar el botón de Add file, parándote primero en la carpeta que corresponda.
 
