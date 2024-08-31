@@ -24,7 +24,9 @@ Pero si querés tener el repositorio descargado en tu compu, o querés jugar a s
     - para moverte de carpeta en carpeta, vas a usar [cd](https://es.wikipedia.org/wiki/Chdir). Ej: `cd Documents/`
     - podés moverte a la carpeta superior con `cd ..` 
     - para ver los archivos que tiene la carpeta en la que estás parade, vas a usar [ls](https://es.wikipedia.org/wiki/Ls)
-- Abrí tu terminal de git, dirigite a la carpeta donde quieras guardar esto, y pone `git clone git@github.com:makiniqa/IyRS.git`
+- Abrí tu terminal de git, dirigite a la carpeta donde quieras guardar esto, y poné
+
+  `git clone git@github.com:makiniqa/IyRS.git`
 - Listo, ya la tenés copiada localmente. 
 - Para subir, vas a poner `git add nombre-del-archivo`, siempre que estés parade dentro de la carpeta. Ojo que cuando recién clonás no te mueve automáticamente adentro de la carpeta.
 - Ahora vamos a commitear los cambios con `git commit -m "frase que describa lo que cambiaste"`.
