@@ -19,11 +19,11 @@ Para subir archivos tenés dos opciones: la fácil es usar el botón de Add file
 
 Pero si querés tener el repositorio descargado en tu compu, o querés jugar a ser hacker, podés usar git:
 - Instalá git. Instrucciones [acá](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git).
-- Ahora vamos a clonar el repositorio. [¿Qué es un repositorio?](https://es.wikipedia.org/wiki/Repositorio_(contenido_digital) 
+- Ahora vamos a clonar el repositorio. [¿Qué es un repositorio?](https://docs.github.com/es/repositories/creating-and-managing-repositories/about-repositories)
 - Antes de empezar, vas a tener que conocer un par de comandos básicos. Una aclaración, yo no uso Windows; entiendo que estos comandos funcionan en git bash pero si no es así vas a tener que buscar porque nidea men
-    - para moverte de carpeta en carpeta, vas a usar [cd](https://en.wikipedia.org/wiki/Cd_(command). Ej: `cd Documents/`
+    - para moverte de carpeta en carpeta, vas a usar [cd](https://es.wikipedia.org/wiki/Chdir). Ej: `cd Documents/`
     - podés moverte a la carpeta superior con `cd ..` 
-    - para ver los archivos que tiene la carpeta en la que estás parade, vas a usar [ls](https://en.wikipedia.org/wiki/Ls)
+    - para ver los archivos que tiene la carpeta en la que estás parade, vas a usar [ls](https://es.wikipedia.org/wiki/Ls)
 - Abrí tu terminal de git, dirigite a la carpeta donde quieras guardar esto, y pone `git clone git@github.com:makiniqa/IyRS.git`
 - Listo, ya la tenés copiada localmente. 
 - Para subir, vas a poner `git add nombre-del-archivo`, siempre que estés parade dentro de la carpeta. Ojo que cuando recién clonás no te mueve automáticamente adentro de la carpeta.
