@@ -5,7 +5,8 @@ Abierto a la colaboración <3
 ## Código para colaborar
 - Si subís tus apuntes de clase, ponelos (dentro de `apuntes de clase`) dentro de una carpeta con tu nombre, alias, o una palabra que te represente, para que no se mezclen
 - Si subís tus resúmenes, ponelos dentro de la carpeta `resúmenes`, luego dentro de la carpeta correspondiente a la unidad del texto,
-y luego dentro de la carpeta `obligatorios`, `recomendados` o `complementarios`. Si la carpeta no existe, creala.
+y luego dentro de la carpeta `obligatorios`, `recomendados` o `complementarios`. Si la carpeta no existe, creala. Recomendado poner tu nombre, alias, o una palabra que te represente
+entre paréntesis al final del nombre del archivo, para que no se mezclen si varias personas suben del mismo
 - No subir textos de la materia que tengan copyright
 - Textos de la materia, especialmente recomendados o complementarios que te hayan gustado, y/o textos que te gusten que tengan que ver con el contenido de la materia
  (cuya licencia lo permita) se pueden subir a la carpeta `textos`
